@@ -1,0 +1,8 @@
+{
+  "name": "ClipForge AI",
+  "description": "AI-powered gaming highlight clipper converting long recordings into viral Shorts, Reels, and TikTok clips with smart cropping, animated captions, and viral scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
